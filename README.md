@@ -1,4 +1,4 @@
-# proks_et_al_2022
+# proks_et_al_2023
 
 Complenetary analysis to [nf-core/marsseq](https://github.com/nf-core/marsseq).
 

@@ -1,6 +1,8 @@
 # proks_et_al_2022
 
-A short description of the project.
+Complenetary analysis to [nf-core/marsseq](https://github.com/nf-core/marsseq).
+
+Dataset available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8016374.svg)](https://doi.org/10.5281/zenodo.8016374)
 
 ## nf-core/marsseq
 

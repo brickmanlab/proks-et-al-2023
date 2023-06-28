@@ -8,7 +8,6 @@ Dataset available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8016374
 
 ```bash
 module load java/11.0.15 nextflow/22.10.6 singularity/3.8.0
-export TOWER_ACCESS_TOKEN=eyJ0aWQiOiA3MTU2fS4xMWY2YjM3NTUxNmI5Y2UwZDAzOTc5MTE0OTkyYTE1MjExNGUyYzNm
 
 sh nf-core_tower.sh mm9_ref nextflow run $PIPELINE_PATH/nf-core-marsseq \
   --input /home/fdb589/projects/people/fdb589/projects/proks_et_al_2022/pipeline/SB26/design.csv \

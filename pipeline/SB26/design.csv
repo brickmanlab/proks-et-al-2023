@@ -1,0 +1,2 @@
+batch,fastq_1,fastq_2,amp_batches,seq_batches,well_cells
+SB26,/projects/dan1/data/Brickman/projects/proks_et_al_2023/pipeline/SB26/Undetermined_S0_L001_R1_001.fastq.gz,/projects/dan1/data/Brickman/projects/proks_et_al_2023/pipeline/SB26/Undetermined_S0_L001_R2_001.fastq.gz,/projects/dan1/data/Brickman/projects/proks_et_al_2023/pipeline/SB26/amp_batches.xlsx,/projects/dan1/data/Brickman/projects/proks_et_al_2023/pipeline/SB26/seq_batches.xlsx,/projects/dan1/data/Brickman/projects/proks_et_al_2023/pipeline/SB26/wells_cells.xlsx

@@ -2,7 +2,7 @@
 
 Complemetary analysis to [nf-core/marsseq](https://github.com/nf-core/marsseq).
 
-Dataset available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8016374.svg)](https://doi.org/10.5281/zenodo.8016374)
+Dataset available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14235045.svg)](https://doi.org/10.5281/zenodo.14235045)
 
 ## nf-core/marsseq
 

@@ -1,6 +1,10 @@
 .ipynb_checkpoints/
 data/
 documents/
-pipeline/
 reports/figures/
 results/
+*.fa
+*.gtf
+*.config
+*.fastq.gz
+._*

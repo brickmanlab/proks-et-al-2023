@@ -1,0 +1,2 @@
+batch,fastq_1,fastq_2,amp_batches,seq_batches,well_cells
+SB26,s3://ngi-igenomes/test-data/marsseq/Undetermined_S0_L001_R1_001.fastq.gz,s3://ngi-igenomes/test-data/marsseq/Undetermined_S0_L001_R2_001.fastq.gz,s3://ngi-igenomes/test-data/marsseq/amp_batches.xlsx,s3://ngi-igenomes/test-data/marsseq/seq_batches.xlsx,s3://ngi-igenomes/test-data/marsseq/wells_cells.xlsx

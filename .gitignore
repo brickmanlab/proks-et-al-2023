@@ -6,5 +6,10 @@ results/
 *.fa
 *.gtf
 *.config
+*.tar.gz
 *.fastq.gz
-._*
+notebooks/02_velovi.ipynb
+pipeline/SB1
+pipeline/SB2
+pipeline/SB26-AB339
+pipeline/test-data
